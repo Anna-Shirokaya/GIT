@@ -1,0 +1,12 @@
+<bugReport>
+<Severity>Minor</Severity>
+<Environment>Win 11 Chrome 114</Environment>
+<title>The search bar disappears from the search results page when clicking the search button</title>
+<Steps>
+	<step>1. Navigate to capital.com</step>
+	<step>2. Click on [Seach] button</step>
+	<step>3. Input any word, for example, 'sd' and press 'Enter'</step>
+	<step>4. Click the [Search] button again</step>
+</Steps>
+<Expected Result>The search field does not disappear immediately, you can enter a search word</Expected Result>
+</bugReport>
