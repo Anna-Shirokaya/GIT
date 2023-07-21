@@ -55,3 +55,4 @@ git pull
 
 git push origin -d <имя ветки> - удалить ветку на git
 git branch -d <имя ветки> - удалить ветки локально
+
