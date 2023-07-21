@@ -7,5 +7,6 @@
 	"2. Click on [Seach] button"
 	"3. Input any word, for example, 'sd' and press 'Enter'"
 	"4. Click the [Search] button again"],
-"Expected Result":"The search field does not disappear immediately, you can enter a search word" 
+"Expected Result":"The search field does not disappear immediately, you can enter a search word",
+"Date" :"21-07-2023"
 }
