@@ -8,5 +8,5 @@
 	<step>3. Input any word, for example, 'sd' and press 'Enter'</step>
 	<step>4. Click the [Search] button again</step>
 </Steps>
-<Expected Result>The search field does not disappear immediately, you can enter a search word</Expected Result>
+<Expected_Result>The search field does not disappear immediately, you can enter a search word</Expected_Result>
 </bugReport>
